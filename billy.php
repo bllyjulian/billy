@@ -1,5 +1,5 @@
 <?php
-    echo "Hallo, Nama saya Billy Mohammad<br>";
+    echo "Hello world, Nama saya Billy Mohammad<br>";
 
     $angka1 = 6;
     $angka2 = 2;
